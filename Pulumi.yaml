@@ -1,0 +1,6 @@
+name: hackhaton2022
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: a new python
